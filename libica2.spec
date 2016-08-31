@@ -1,12 +1,12 @@
 Summary:	Interface library to the ICA device driver
 Summary(pl.UTF-8):	Biblioteka interfejsu do sterownika urządzenia ICA
 Name:		libica2
-Version:	2.6.1
+Version:	2.6.2
 Release:	1
 License:	CPL v1.0
 Group:		Libraries
 Source0:	http://downloads.sourceforge.net/opencryptoki/libica-%{version}.tgz
-# Source0-md5:	28a337b165b516f5eb9f9ee5e88eb5e6
+# Source0-md5:	0381595f668016e4010d860cf6105b19
 Patch0:		%{name}-headers.patch
 URL:		http://opencryptoki.sourceforge.net/
 BuildRequires:	autoconf
